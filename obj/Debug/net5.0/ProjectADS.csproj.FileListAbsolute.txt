@@ -1,0 +1,16 @@
+C:\ADS Csharp\ProjectADS\bin\Debug\net5.0\ProjectADS.exe
+C:\ADS Csharp\ProjectADS\bin\Debug\net5.0\ProjectADS.deps.json
+C:\ADS Csharp\ProjectADS\bin\Debug\net5.0\ProjectADS.runtimeconfig.json
+C:\ADS Csharp\ProjectADS\bin\Debug\net5.0\ProjectADS.runtimeconfig.dev.json
+C:\ADS Csharp\ProjectADS\bin\Debug\net5.0\ProjectADS.dll
+C:\ADS Csharp\ProjectADS\bin\Debug\net5.0\ref\ProjectADS.dll
+C:\ADS Csharp\ProjectADS\bin\Debug\net5.0\ProjectADS.pdb
+C:\ADS Csharp\ProjectADS\obj\Debug\net5.0\ProjectADS.csproj.AssemblyReference.cache
+C:\ADS Csharp\ProjectADS\obj\Debug\net5.0\ProjectADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS Csharp\ProjectADS\obj\Debug\net5.0\ProjectADS.AssemblyInfoInputs.cache
+C:\ADS Csharp\ProjectADS\obj\Debug\net5.0\ProjectADS.AssemblyInfo.cs
+C:\ADS Csharp\ProjectADS\obj\Debug\net5.0\ProjectADS.csproj.CoreCompileInputs.cache
+C:\ADS Csharp\ProjectADS\obj\Debug\net5.0\ProjectADS.dll
+C:\ADS Csharp\ProjectADS\obj\Debug\net5.0\ref\ProjectADS.dll
+C:\ADS Csharp\ProjectADS\obj\Debug\net5.0\ProjectADS.pdb
+C:\ADS Csharp\ProjectADS\obj\Debug\net5.0\ProjectADS.genruntimeconfig.cache
